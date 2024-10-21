@@ -1,0 +1,234 @@
+Python
+------
+
+1. Ease of coding 
+
+2. python is an open source
+
+  a. Desktop application - TKinter (TK - toolkit), PyQt, wxPython, PySimpleGUI
+
+  b. Web application - MVC, Rest API, ORM Flask and Django
+
+  c. Mobile application - Kivy
+
+  d. Testing	- unit test, pytest, Selenium,  Robo Frame
+
+  e. Web scrapping  - 
+
+  f automation  - paramiko (network)
+
+
+---------------------------------------------------------------------------
+  g. Data Science
+
+  h. Data Analtytics
+
+  i. Data Engineering = Spark, Python, Scala, Kafka
+
+  j. DL, ML, AI
+
+
+DL - Deep Learning
+
+ML - Machine Learning
+
+AI - Artificial Intelligence
+
+
+Python
+------
+
+flavours of python
+------------------
+Cpython  - currently using
+
+Jython	 - Python code gets converted to Java code
+
+IronPython  - writing python code using dotnet libraries
+
+
+CPython 3.x
+------------
+
+versions
+--------
+2.x     vs      3.x
+-------------------
+
+2.x
+---
+print "hello"
+
+
+3.x
+---
+print("hello")
+
+libraries to migrate the code 
+=============================
+lib2to3, six package, python-modernize
+
+
+IDE - Editors
+-------------
+IDLE - Integrated Development Environment
+
+PyCharm CE - open source 
+
+VS code CE 
+
+Eclipse (patch)
+
+sublime text
+
+Notepad++
+
+Jupyter notebook, spyder, google colabs
+
+Python 3.x
+----------
+1. SDK  - Execute python file
+
+2. Shell - interactive environment
+
+3. IDLE - interactive environment with  UI
+
+
+There are two operators that are overloaded in python
+-----------------------------------------------------
++ 
+
+   1. addition
+
+   2. concatenation
+
+
+*
+
+  1. multiplication
+
+  2. print a string n number of times
+
+
+Python Data types
+-----------------
+2.x
+---
+Numbers
+--------
+1. integer
+2. long  - depreceted - discontinued    
+3. float
+4. complex
+
+long
+----
+8237045039212L
+
+3.x
+--- 
+the properties of long datatype still exists
+
+-------------------------------------------------
+
+from imp import reload  (deprecated)
+
+from importlib import reload
+
+
+Python Coding Rules
+--------------------
+
+#!  => Shebang - used to specify the path of python executables
+
+line termination is your enter key (return key)
+
+
+Comments
+--------
+# - is used for single line comment
+
+strings 
+-------
+single line strings are stored in " " or ' '
+
+"This is a line"
+'This is a line'
+
+
+multiple line strings are stored in """   """ or  '''   '''
+
+"""
+This is the first line
+This is the second line
+This is the third line
+"""
+
+'''
+This is the first line
+This is the second line
+This is the third line
+'''
+
+Python does use parentheses "{ }" for loops, if conditions, functions and classes
+
+instead of parentheses we use indentation (tab)
+
+
+for i in range(1, 10):
+   print(i)
+   print("hello")
+
+
+print("Hello World")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

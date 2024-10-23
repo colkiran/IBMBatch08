@@ -1,0 +1,90 @@
+Strings
+-------
+
+STRINGS ARE IMMUTABLE
+
+store strings in 
+
+  "this is a string"
+
+  'this is a string'
+
+
+formatting
+----------
+1. C style
+2. unix Style
+3. python string format
+
+
+
+Data Structures
+----------------
+1. list
+2. dictionary
+3. tuple
+4. set
+
+
+List
+----
+lists are same as arrays
+
+What is an array?
+
+1. its a collection of homogenous data
+
+2. memory allocation is contagious
+
+
+Lists
+-----
+1. list are a collection of heterogenous data
+
+2. memory allocation is not contagious
+
+3. its an ordered collection
+
+4. its mutable
+
+5. its subscriptable
+
+6. its static
+
+7. lists are enclosed in [ ]
+
+
+functions to manipulate a list
+-------------------------------
+
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+
+
+Assignments
+----------
+1. use formatting and print the following table
+
+==================================================
+Item                                         Price
+==================================================
+Apples                                        0.40
+Pears                                         0.50
+Cantaloupes                                   1.92
+Dried Apricots (16 oz.)                       8.00
+Prunes (4 lbs.)                              12.00
+==================================================
+
+2. write a code to create an identity matrix
+
+ 
+
+
+
+
+
+
+
+
+

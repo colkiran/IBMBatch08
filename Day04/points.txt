@@ -1,0 +1,70 @@
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+copy, sort, reverse
+
+
+Assignment
+-----------
+1. remove all 2's from the list using remove function
+
+
+
+Dictionary
+----------
+1. also called as associative arrays
+
+2. they are unordered collection
+
+3. keys are unique
+
+4. mutable
+
+5. are enclosed in  { }
+
+
+        0    1    2    3    4 
+lst = ['a', 'b', 'c', 'd', 'e']
+
+
+associative array
+-----------------
+{0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e'}
+
+key 	- 0, 1, 2, 3, 4
+
+values  - 'a', 'b', 'c', 'd', 'e'
+
+keys
+----
+1. it is user defined
+2. it is always unique
+
+emp = {'empid': 'emp001', 'ename': 'Mike', 'age': 32, 'desig': 'MGR'}
+
+keys 	- empid, ename, age, desig
+values 	- emp001, Mike, 32, MGR 
+
+
+dictionary manipulation functions
+---------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+clear, copy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
